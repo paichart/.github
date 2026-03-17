@@ -54,7 +54,7 @@
   - **Platform**: [paichart.app](https://paichart.app)
   - **MCP Endpoint**: `https://paichart.app/mcp`
   - **JWKS**: `https://paichart.app/api/auth/jwks`
-  - **Documentation**: Provided as a resource in AI Clent
+  - **Documentation**: Provided as a resource (or use /prompt list) in AI Clent
 
   ## Keywords
 
