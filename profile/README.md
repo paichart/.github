@@ -2,12 +2,13 @@
 
   **AI Service Orchestration with Per-User Authentication**
 
-  pAIchart is a production MCP Hub that orchestrates external MCP services with enterprise-grade security. Connect
-  AI clients (Claude Desktop, ChatGPT, VS Code Copilot) to any MCP service through a single Hub with trust-level
-  authentication, per-user OAuth passthrough, and multi-service workflows.
+  pAIchart is a MCP service mesh where AI discovers MCP servers, composes & orchestrates multi-service workflows.
+  Users can self-register services and connect agents or AI clients to any MCP service through a single Hub with
+  trust-level authentication, per-user OAuth passthrough, and multi-service workflows.
 
   ## What pAIchart Does
 
+  - **Free Service Registration** — A comprehensive guides available via "/prompt list" or as MCP resources
   - **Service Discovery** — AI agents find services by capability, not by name
   - **Multi-Service Workflows** — Chain services sequentially, in parallel, or conditionally with variable passing
   - **Per-User Authentication** — Each user's operations run as themselves via External OAuth (validated with
