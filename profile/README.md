@@ -8,7 +8,7 @@
 
   ## What pAIchart Does
 
-  - **Free Service Registration** — A comprehensive guides available via "/prompt list" or as MCP resources
+  - **Free Service Registration** — Comprehensive guides available via "/prompt list" or as MCP resources
   - **Service Discovery** — AI agents find services by capability, not by name
   - **Multi-Service Workflows** — Chain services sequentially, in parallel, or conditionally with variable passing
   - **Per-User Authentication** — Each user's operations run as themselves via External OAuth (validated with
